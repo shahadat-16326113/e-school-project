@@ -1,0 +1,128 @@
+.first-nav{
+
+    background-color: #F0FFF0;
+    height: 600px;
+    padding-top: 15px;
+    
+}
+.bg-light {
+    background-color: #F0FFF0 !important;
+}
+
+.nav-color{
+    color: black;
+}
+.navbar-logo{
+    height: 50px;
+    
+}
+
+.nav-item{
+    padding: 0px 15px;
+}
+
+#sign-in{
+
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 25px;
+}
+.get-start{
+
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 25px;
+
+}
+.text-image1{
+    padding-top: 160px;
+}
+.text-image2{
+    padding-top: 80px;
+}
+
+.image-second{
+    
+    margin-top: 80px;
+    height: 70px;
+    width: 55px;
+   
+}
+.img-first{
+    width: 100% ;
+    
+}
+.cat1{
+    background-color: #F9FDFB;
+    margin-top: 40px;
+    border-radius: 10px;
+    
+}
+
+.cat1:hover{
+    background-color: white;
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px #F7F6F7;
+    
+}
+
+#buy-now-btn{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 20px;
+}
+
+.card{
+
+    border-radius: 10px;
+    border: none;
+    box-shadow: 10px 10px 10px  darkgrey;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-state{
+    padding-bottom: 100px ;
+}
+
+.man-pic{
+
+    height: 110px;
+    width: 110px;
+    margin-top: 70px;
+}
+
+.my-own-bg{
+    
+    color: white;
+    background-color: #282531;
+    height: 350px;
+    margin: 0px;
+    
+}
+
+.list-style{
+
+    list-style-type: none;
+
+}
+
+.last-area{
+
+    padding-top: 60px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
+
